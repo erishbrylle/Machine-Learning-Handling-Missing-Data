@@ -37,6 +37,6 @@ ML-Imputation-Project/
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ML-Imputation-Project.git
+git clone https://github.com/erishbrylle/Machine-Learning-Handling-Missing-Data
 cd ML-Imputation-Project
 pip install -r requirements.txt
